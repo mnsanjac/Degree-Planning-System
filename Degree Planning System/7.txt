@@ -1,0 +1,10 @@
+ARTS 1316
+Fundamentals of Drawing
+Roman Melendez
+C
+6
+ARTS 2316
+Fundamentals of Painting
+Blodeuwedd Meeuwis
+C
+6
